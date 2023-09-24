@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Borntowarn/Borntowarn/assets/33799845/c86f11fd-e770-4dec-a746-56f98ab569e3"/>
+  <img src="https://github.com/Borntowarn/Borntowarn/assets/33799845/70d82561-b507-4453-a145-9ebe48a0fe5d" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/borntowar)">
