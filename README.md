@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://github.com/Borntowarn/Borntowarn/assets/33799845/c86f11fd-e770-4dec-a746-56f98ab569e3"/>
+</div>
 <div id="badges" align="center">
   <a href="https://vk.com/borntowar)">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge"/>
@@ -7,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Free4ky&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Borntowarn&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
