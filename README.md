@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="300"/>
-</div>
 <div id="badges" align="center">
   <a href="https://vk.com/borntowar)">
     <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge"/>
