@@ -36,8 +36,7 @@
 
 ### :trophy: Achivments :
 
-
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/cd815a88-1ec5-4b41-9386-c97f348b44ca" >| <img width="1604" src="https://github.com/Free4ky/Free4ky/assets/51875349/7ddd5d68-2dcd-420f-87ec-9f5fb97a0ee1">|<img width="1604" src="https://user-images.githubusercontent.com/51875349/199543475-478f0460-0232-4c8c-892b-c1dfffba306f.jpg">|
-|<img width="300" src="https://user-images.githubusercontent.com/51875349/199530144-eef72547-b12d-4136-91d2-dffcce9ab969.jpg" title="Samsung Research Russia. Neural networks and computer vision">|<img width="300" src="https://github.com/Free4ky/Free4ky/assets/51875349/795b2c39-3ad8-4951-a2d3-a2434dbb6a10" title="">
+|<img width="1604" src="https://github.com/Borntowarn/Borntowarn/assets/33799845/5e858b23-6a95-47ea-b476-6d7e06fdc4b5" >| <img width="1604" src="https://github.com/Borntowarn/Borntowarn/assets/33799845/a1da8f72-1603-4332-addc-66489fff29e8">|<img width="1604" src="https://github.com/Borntowarn/Borntowarn/assets/33799845/ac3f0d90-929d-4128-867f-f157e68865e0">|
+|<img width="300" src="https://github.com/Borntowarn/Borntowarn/assets/33799845/1720e100-a1cd-41cd-b99e-0b0ad8cc55e2" title="">|<img width="300" src="https://github.com/Borntowarn/Borntowarn/assets/33799845/fc350577-5800-4d32-b999-885adf7a399f" title="">
