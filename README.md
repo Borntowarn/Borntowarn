@@ -15,9 +15,9 @@
 
 ---
 ### :man_technologist: About Me :
-- :man_student: I'm studying for bachelor degree in RTU MIREA.
+- :man_student: I'm studying for masters degree in RTU MIREA.
 - 🌱 I’m currently studying machine learning and python.
-- 📫 How to reach me: kozlovmihail02@mail.ru
+- 📫 How to reach me: kozlovmihail02@mail.ru | kozlovmihail02@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
